@@ -81,6 +81,6 @@ Matric Certificate
 
 -------------------------------------------------------------------------
 
-## 📹 Mock Interview Video
+## 📹 Interview Video
 [Watch my video here]
 https://drive.google.com/file/d/1o2QVaV7xr0_NHdUxJengAZe9q3GnMKJI/view?usp=drivesdk
