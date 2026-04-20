@@ -99,7 +99,7 @@ I successfully created a well-structured CV that is easy to read and accessible 
 
 ## 📹 Interview Video
 [Watch my video here]
-https://drive.google.com/file/d/1o2QVaV7xr0_NHdUxJengAZe9q3GnMKJI/view?usp=drivesdk
+<iframe src ="https://drive.google.com/file/d/1o2QVaV7xr0_NHdUxJengAZe9q3GnMKJI/view?usp=drivesdk" width="600" height="400" allow ="autoplay"></iframe>iframe>
 
 -------------------------------------------------------------------------
 
