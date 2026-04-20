@@ -24,7 +24,7 @@ Diploma in ICT in Applications Development
 
 **PJ Simelane Secondary School**  
 Matric Certificate  
-*Completed: 2023*  
+*Completed: 2022*  
 
 ---
 
