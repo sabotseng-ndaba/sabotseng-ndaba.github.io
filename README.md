@@ -81,6 +81,54 @@ Matric Certificate
 
 -------------------------------------------------------------------------
 
+## Reflection: Coding in Markdown (STAR Method)
+
+**Situation:**  
+I was required to create a CV using Markdown for my GitHub portfolio.
+
+**Task:**  
+My task was to learn Markdown syntax and apply it to structure my CV professionally.
+
+**Action:**  
+I used headings, lists, and formatting to organise my CV clearly. I also practiced using Markdown in GitHub to improve readability.
+
+**Result:**  
+I successfully created a well-structured CV that is easy to read and accessible online, improving my technical and presentation skills.
+
+------------------------------------------------------------------------
+
 ## 📹 Interview Video
 [Watch my video here]
 https://drive.google.com/file/d/1o2QVaV7xr0_NHdUxJengAZe9q3GnMKJI/view?usp=drivesdk
+
+-------------------------------------------------------------------------
+
+##  Reflection: Mock Interview (STAR Method)
+
+**Situation:**  
+I participated in a mock interview to prepare for real job interviews.
+
+**Task:**  
+My task was to present myself professionally and answer interview questions effectively.
+
+**Action:**  
+I practiced common interview questions, dressed professionally, and recorded my responses clearly.
+
+**Result:**  
+I improved my confidence, communication skills, and ability to present myself to potential employers.
+
+-------------------------------------------------------------------------
+
+##  Reflection: GitHub Pages (STAR Method)
+
+**Situation:**  
+I needed to publish my GitHub portfolio as a live website.
+
+**Task:**  
+My task was to learn how to use GitHub Pages to deploy my portfolio.
+
+**Action:**  
+I configured the repository settings and enabled GitHub Pages to host my README file as a website.
+
+**Result:**  
+I successfully created a live portfolio website that can be shared with lecturers and potential employers.
