@@ -440,3 +440,33 @@ footer {
         margin: 30px 0;
     }
 }
+
+/* Product Backlog evidence screenshots */
+.evidence {
+    display: block;
+    width: 100%;
+    margin: 30px 0;
+    padding: 16px;
+    box-sizing: border-box;
+    border: 1px solid #e2e8f0;
+    border-radius: 12px;
+    background: #ffffff;
+    overflow: hidden;
+}
+
+.evidence img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.evidence figcaption {
+    margin-top: 12px;
+    color: #64748b;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
