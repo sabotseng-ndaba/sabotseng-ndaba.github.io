@@ -441,12 +441,13 @@ footer {
     }
 }
 
-/* Product Backlog evidence screenshots */
+
+/* Evidence screenshot cards */
 .evidence {
-    display: block;
     width: 100%;
-    margin: 30px 0;
-    padding: 16px;
+    max-width: 850px;
+    margin: 25px auto;
+    padding: 18px;
     box-sizing: border-box;
     border: 1px solid #e2e8f0;
     border-radius: 12px;
@@ -457,8 +458,8 @@ footer {
 .evidence img {
     display: block;
     width: 100%;
-    max-width: 100%;
     height: auto;
+    max-width: 100%;
     object-fit: contain;
     border-radius: 8px;
 }
